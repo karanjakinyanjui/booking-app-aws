@@ -26,6 +26,7 @@
     "@types/aws-lambda": "^8.10.134",
     "aws-cdk-lib": "2.123.0",
     "constructs": "^10.0.0",
+    "dotenv": "^16.4.5",
     "esbuild": "^0.20.1",
     "source-map-support": "^0.5.21",
     "ulidx": "^2.3.0"
